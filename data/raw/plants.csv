@@ -1,0 +1,4 @@
+plant_id,plant_name,location,lat,lon,capacity_units,production_cost_per_unit
+P1,Cleveland Plant,"Cleveland, OH",41.4993,-81.6944,65000,8.5
+P2,Dallas Plant,"Dallas, TX",32.7767,-96.797,60000,8.0
+P3,Atlanta Plant,"Atlanta, GA",33.749,-84.388,55000,7.8

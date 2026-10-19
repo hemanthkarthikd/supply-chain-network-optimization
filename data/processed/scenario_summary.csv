@@ -1,0 +1,6 @@
+scenario,success,total_annual_cost,open_dcs,number_of_open_dcs
+Baseline,True,10948295.0,"D1, D3, D4, D5",4
+Demand +15%,True,11749570.25,"D1, D3, D4, D5",4
+Transport Cost +20%,True,11476104.0,"D1, D3, D4, D5",4
+D3 Outage,True,11285460.0,"D1, D2, D4, D5",4
+Max 4 DCs,True,10948295.0,"D1, D3, D4, D5",4

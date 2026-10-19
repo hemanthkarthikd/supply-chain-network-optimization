@@ -1,0 +1,7 @@
+dc_id,dc_name,location,lat,lon,capacity_units,fixed_annual_cost
+D1,Boston DC,"Boston, MA",42.3601,-71.0589,42000,1800000
+D2,Chicago DC,"Chicago, IL",41.8781,-87.6298,50000,2100000
+D3,Dallas DC,"Dallas, TX",32.7767,-96.797,52000,1900000
+D4,Atlanta DC,"Atlanta, GA",33.749,-84.388,45000,1750000
+D5,Denver DC,"Denver, CO",39.7392,-104.9903,38000,1650000
+D6,Los Angeles DC,"Los Angeles, CA",34.0522,-118.2437,48000,2400000

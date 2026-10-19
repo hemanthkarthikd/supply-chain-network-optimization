@@ -1,0 +1,13 @@
+customer_id,customer_region,location,lat,lon,demand_units
+C1,New England,"Boston, MA",42.36,-71.06,12000
+C2,Mid-Atlantic,"Philadelphia, PA",39.95,-75.17,14500
+C3,Great Lakes,"Detroit, MI",42.33,-83.05,13000
+C4,Midwest,"Chicago, IL",41.88,-87.63,15000
+C5,Southeast,"Atlanta, GA",33.75,-84.39,13500
+C6,Florida,"Orlando, FL",28.54,-81.38,11000
+C7,Texas,"Dallas, TX",32.78,-96.8,16000
+C8,Plains,"Kansas City, MO",39.1,-94.58,9500
+C9,Mountain,"Denver, CO",39.74,-104.99,9000
+C10,Southwest,"Phoenix, AZ",33.45,-112.07,10000
+C11,California,"Los Angeles, CA",34.05,-118.24,15500
+C12,Pacific Northwest,"Seattle, WA",47.61,-122.33,10500
